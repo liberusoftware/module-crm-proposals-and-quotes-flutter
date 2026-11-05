@@ -1,0 +1,15 @@
+{
+  "repository": "module-crm-proposals-and-quotes-flutter",
+  "capabilityKey": "liberusoftware/module-crm-proposals-and-quotes",
+  "presentation": "mobile-flutter",
+  "package": "module_crm_proposals_and_quotes_flutter",
+  "foundation": "module-boilerplate-flutter",
+  "foundationCommit": "ff95e801183203fd3ab58993d7793fbae549151e",
+  "canonicalPlan": "projects/crm/nextjs/proposals-and-quotes.md",
+  "presentationPlan": "projects/crm/flutter/proposals-and-quotes.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "crm"
+  ]
+}
